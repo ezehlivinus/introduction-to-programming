@@ -60,4 +60,5 @@ console.log('\n', _surnames, x)
 // Y = [15, 16, 17, 18, 19, 20, 21, 22, 23, 24]
 // sumOfXAndY = [16, 18, 20, 22, 24, 26, 28, 30, 32, 34]
 // productOfXAndY = [15, 32, 51, 72, 95, 120, 147, 176, 207, 240]
- 
+// write two functions that takes an array X, Y and returns 
+// 1. sumOfXAndY, 2. productOfXAndY respectively
