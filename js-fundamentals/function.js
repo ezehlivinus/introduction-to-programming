@@ -33,3 +33,19 @@ console.log(add(10, result))
  * 
  * 3 methods each for an array, string and object
  */
+
+
+const fullName = (firstName, lastName) => {
+  let __fullName = firstName + ' ' + lastName;
+  // console.log(__fullName)
+  return __fullName
+}
+let x = fullName('Ezeh', 'Livinus')
+console.log(x)
+
+
+x = fullName('Ezeh', 'Livinus')
+console.log(x)
+
+x = fullName('Ezeh', 'Livinus')
+console.log(x)
